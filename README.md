@@ -13,6 +13,7 @@ Conectorul Lexito se adaugă separat, din contul tău Lexito.
 
 | Comandă | Ce face |
 |---|---|
+| `/lexito` | Panoul cabinetului în lateral: agenda, clienții, facturile, fișierele și semnalele |
 | `/azi` | Ședințele și termenele de azi și de mâine |
 
 Lista crește odată cu Lexito.
