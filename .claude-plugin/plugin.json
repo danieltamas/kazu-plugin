@@ -1,8 +1,8 @@
 {
-  "name": "lexito",
-  "displayName": "Lexito",
-  "version": "0.1.0",
-  "description": "Comenzile Lexito în meniul /. Lucrează prin conectorul Lexito.",
-  "author": { "name": "Lexito", "url": "https://lexito.ro" },
-  "homepage": "https://lexito.ro"
+  "name": "kazu",
+  "displayName": "Kazù",
+  "version": "0.2.0",
+  "description": "Comenzile Kazù în meniul /. Lucrează prin conectorul Kazù.",
+  "author": { "name": "Kazù", "url": "https://heykazu.ai" },
+  "homepage": "https://heykazu.ai"
 }
